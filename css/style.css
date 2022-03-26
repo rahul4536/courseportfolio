@@ -1,0 +1,128 @@
+
+body{margin: 0px;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.subtitle{
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+.top-container{
+ 
+    background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.rahul{
+    width: 13%;
+    margin: 50px 0 40px;
+   
+}
+
+hr{
+    margin: 50px auto 40px;
+    border: 6px dotted gray;
+    border-bottom: none;
+    width: 15%;
+}
+.rahul2{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+
+.code-skill-description{
+    /* clear: left */
+    ;
+}
+
+.wings-skill-description{
+    /* clear: right */
+    ;
+}
+
+.contact-me .btn{
+    height: 40px;
+    width: 200px;
+    background-color: #11999E;
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.contact-me .btn:hover{
+    background-color: #66BFBF;
+    cursor: pointer;
+}
+
+.bottom-container {
+/* height: 130px; */
+/* width: 100%; */
+background-color: #66BFBF;
+/* position: relative; */
+padding: 50px 0 20px;
+}
+.bottom-container .footer-link {
+    text-decoration: none;
+    color: #11999E;
+    /* margin: 50px 40px 0px 40px; */
+    /* margin-top: 50px; */
+}
+
+.bottom-container a{
+    margin: 10px 20px;
+}
+
+.bottom-container a:hover{
+    color: white;
+}
+
+.bottom-container p{
+color: white;
+/* padding-top: 30px; */
+}
